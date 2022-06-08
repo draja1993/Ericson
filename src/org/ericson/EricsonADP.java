@@ -10,7 +10,11 @@ public class EricsonADP {
 		System.out.println("Employee Id:RA6582");
 	}
 	
+	private void employeddAddress() {
+		System.out.println("Employee Address:Chennai");
+	}	
 	private void employeeSalary() {
 		System.out.println("Employee Salary:20k");
+
 	}
 }
